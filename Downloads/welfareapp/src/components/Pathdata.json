@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "cardTitl": "medical",
+        "cardtext": "kjgdvjhfgkjfdghsfjkkkkkkkkkkkkkkk",
+        "path": "/medical"
+    },
+    {
+        "id": 2,
+        "cardTitl": "education",
+        "cardtext": "kjgdvjhfgkjfdghsfjkkkkkkkkkkkkkkk",
+        "path": "/education"
+    },
+    {
+        "id": 3,
+        "cardTitl": "cb",
+        "cardtext": "kjgdvjhfgkjfdghsfjkkkkkkkkkkkkkkk",
+        "path": "/cb"
+    },
+    {
+        "id": 4,
+        "cardTitl": "medical",
+        "cardtext": "kjgdvjhfgkjfdghsfjkkkkkkkkkkkkkkk",
+        "path": "/medical"
+    },
+    {
+        "id": 5,
+        "cardTitl": "animmal",
+        "cardtext": "kjgdvjhfgkjfdghsfjkkkkkkkkkkkkkkk",
+        "path": "/animal"
+    },
+    {
+        "id": 6,
+        "cardTitl": "scribals",
+        "cardtext": "kjgdvjhfgkjfdghsfjkkkkkkkkkkkkkkk",
+        "path": "/scribals"
+    }
+]

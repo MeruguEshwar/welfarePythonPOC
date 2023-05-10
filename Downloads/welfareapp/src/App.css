@@ -1,0 +1,121 @@
+#registercard {
+  margin-top: 50px;
+  margin-left: 300px;
+}
+
+#logincard {
+  margin-top: 130px;
+  margin-left: 300px;
+}
+
+#imagecard {
+  height: 300px;
+  width: 360px;
+}
+
+.card {
+  cursor: pointer;
+}
+
+#demo {
+  max-width: 900px;
+  max-height: 900px;
+  margin-left: -70px;
+}
+
+#forgotcard{
+  margin-top: 150px;
+  margin-left: 300px;
+}
+
+#forgotAuth{
+  margin-left: 550px;
+  margin-top: 100px;
+}
+
+
+/* nav{
+  background: rgb(193,200,228);
+  background: linear-gradient(90deg, rgba(193,200,228,1) 0%, rgba(132,206,235,1) 50%, rgba(136,96,208,1) 100%);
+}
+
+.card-header{
+  background: rgb(193,200,228);
+  background: linear-gradient(90deg, rgba(193,200,228,1) 0%, rgba(132,206,235,1) 50%, rgba(136,96,208,1) 100%);
+}
+
+.card-footer{
+  background: rgb(193,200,228);
+  background: linear-gradient(90deg, rgba(193,200,228,1) 0%, rgba(132,206,235,1) 50%, rgba(136,96,208,1) 100%);
+} */
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+  font-size: 1rem;
+  line-height: 2.15;
+  padding-left: .75em;
+  padding-right: .75em;
+  }
+  .card-registration .select-arrow {
+  top: 13px;
+  }
+  .hidden-spacer {
+    height: 0;
+  }
+  
+  .col-xl-6 d-none d-xl-block {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+  }
+  
+  /* .card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+  }
+  
+  .card-registration .select-arrow {
+    top: 13px;
+  
+  } */
+  
+  .carousel-item {
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat scroll center scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+  }
+  
+  .carousel-item::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: #000;
+    opacity: 0;
+  
+  }
+  
+  /* ********************** */
+  .app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url("././images/hands.png");
+    background-size: cover;
+  }
+  /* .d-none d-md-block{
+    image-rendering: url("././images/medical.png");
+
+  } */
+
+
+  .img-fluid{
+    height:100%;
+    width:100%;
+  }
